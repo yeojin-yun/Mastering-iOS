@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Mastering iOS
+//  Test
 //
-//  Created by 순진이 on 2021/07/20.
+//  Created by 순진이 on 2021/07/24.
 //
 
 import UIKit
